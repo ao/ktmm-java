@@ -5,7 +5,7 @@ This works the same as the [Python version](https://github.com/ao/ktmm), but wri
 You can use it as follows:
 
 ```
-# Step1: Download https://github.com/ao/ktmm-java/blob/master/target/ktmm-java-1.0-SNAPSHOT.jar
+# Step1: Download https://github.com/ao/ktmm-java/raw/master/target/ktmm-java-1.0-SNAPSHOT.jar
 
 # Step2: Then run:
 java -jar ktmm-java-1.0-SNAPSHOT.jar
