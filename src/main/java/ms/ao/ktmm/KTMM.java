@@ -1,3 +1,5 @@
+package ms.ao.ktmm;
+
 import java.awt.*;
 
 public class KTMM {
